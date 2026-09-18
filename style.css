@@ -37,11 +37,19 @@ article img {
     padding-bottom: 5%;
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    height: 350px; 
+    object-fit: cover; 
+    object-position: center; 
 }
 
 article summary{
     color: #FFFDD0;
+    padding-top: 5%;
     
+}
+
+.raiting{
+    color:  #f6f4c4;
 }
 
 nav {
