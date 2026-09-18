@@ -6,21 +6,12 @@ body{
     background-color: #555555;
 }
 
-
 h1 {
     color: #F3E5AB;
     font-size: 40px;
     text-align: center;
 }
-/*
-h4 {
-    
-    color: #FFFAF0;
-    text-align: center;
-    font-weight: normal;
-    
-}
-*/
+
 .sub{
     color: #FFFAF0;
     text-align: center;
@@ -54,14 +45,6 @@ article summary{
     color: #FFFDD0;
     padding-top: 5%;
     
-}
-
-article h4 {
-    display: inline; 
-    color: #FFFDD0;
-    font-size: 1.2rem;
-    margin: 0;
-    font-weight: normal;
 }
 
 article h2 {
